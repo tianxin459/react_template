@@ -4,6 +4,7 @@ import test from "./slice/testSlice";
  
 let store = configureStore({
   reducer: {
+    test
   }
 });
  
